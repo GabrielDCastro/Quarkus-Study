@@ -1,0 +1,4 @@
+org\acme\GreetingResource.class
+org\acme\quarkussocial\rest\dto\CreateUserRequest.class
+org\acme\quarkussocial\rest\UserResource.class
+META-INF\panache-archive.marker
